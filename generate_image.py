@@ -6,8 +6,8 @@ import requests
 from io import BytesIO
 
 # Replace with your Hugging Face API token
-API_TOKEN = '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'
-API_URL = 'https://api-inference.huggingface.co/models/ZB-Tech/Text-to-Image'
+API_TOKEN = 'Enter Hugging Face Tokken'
+API_URL = 'Enter Higging Face Model Url'
 
 class ImageGeneratorApp:
     def __init__(self, root):
